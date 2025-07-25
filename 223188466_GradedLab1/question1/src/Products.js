@@ -1,0 +1,23 @@
+const products = [
+  { id: 1, name: "Blue T-Shirt", category: "Clothing", price: 150, inStock: true },
+  { id: 2, name: "Black Jeans", category: "Clothing", price: 300, inStock: false },
+  { id: 3, name: "Red Sneakers", category: "Shoes", price: 500, inStock: true },
+  { id: 4, name: "Wireless Mouse", category: "Accessories", price: 250, inStock: true },
+  { id: 5, name: "Office Chair", category: "Furniture", price: 1200, inStock: false },
+  { id: 6, name: "Bluetooth Headphones", category: "Accessories", price: 800, inStock: true },
+  { id: 7, name: "Gaming Keyboard", category: "Accessories", price: 650, inStock: true },
+  { id: 8, name: "Leather Jacket", category: "Clothing", price: 1500, inStock: false },
+  { id: 9, name: "Running Shoes", category: "Shoes", price: 900, inStock: true },
+  { id: 10, name: "Desk Lamp", category: "Furniture", price: 350, inStock: true },
+  { id: 11, name: "Smartphone", category: "Tech", price: 3000, inStock: true },
+  { id: 12, name: "Smartwatch", category: "Tech", price: 1500, inStock: false },
+  { id: 13, name: "Hoodie", category: "Clothing", price: 450, inStock: true },
+  { id: 14, name: "Backpack", category: "Accessories", price: 600, inStock: true },
+  { id: 15, name: "Gaming Console", category: "Tech", price: 5500, inStock: true },
+  { id: 16, name: "Pink Graphic T-Shirt", category: "Clothing", price: 200, inStock: false },
+  { id: 17, name: "Blue Jeans", category: "Clothing", price: 250, inStock: true },
+  { id: 18, name: "Black loafers", category: "Shoes", price: 300, inStock: true },
+  { id: 19, name: "Brown Leather Jacket", category: "Clothing", price: 1550, inStock: true },
+  { id: 20, name: "X-Box", category: "Tech", price: 14999, inStock: true },
+];
+export default products;
